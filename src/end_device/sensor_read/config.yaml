@@ -1,0 +1,21 @@
+cloud_hostname: 129.114.111.193
+cloud_username: yellow
+cloud_password: test5243
+cloud_port: 31111
+
+edge_hostname: 192.168.10.1
+edge_username: guest
+edge_password: guest
+edge_port: 5672
+
+cloud_mysql_hostname: 129.114.111.193
+cloud_mysql_username: lambda
+cloud_mysql_password: test5243
+cloud_mysql_database: lambda
+cloud_mysql_port: 3306
+
+edge_mysql_hostname: 192.168.10.1
+edge_mysql_username: root
+edge_mysql_password: cloud123
+edge_mysql_database: lambda
+edge_mysql_port: 3306

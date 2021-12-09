@@ -1,0 +1,6 @@
+setuptools
+Flask
+mysql-connector-python
+pyyaml
+statsmodels
+sqlalchemy

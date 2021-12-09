@@ -1,0 +1,11 @@
+# Database Configuration:
+cloud_mysql_hostname: 129.114.111.193
+cloud_mysql_username: lambda
+cloud_mysql_password: test5243
+cloud_mysql_database: lambda
+cloud_mysql_port: 3306
+edge_mysql_hostname: 129.114.111.193
+edge_mysql_username: lambda
+edge_mysql_password: test5243
+edge_mysql_database: lambda
+edge_mysql_port: 3306

@@ -1,0 +1,9 @@
+hostname: 192.168.10.1
+username: guest
+password: guest
+port: 5672
+mysql_hostname: 192.168.10.1
+mysql_username: root
+mysql_password: cloud123
+mysql_database: lambda
+mysql_port: 3306

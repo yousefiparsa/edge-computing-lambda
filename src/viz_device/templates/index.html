@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8" />
+   <title>IoT Programming for the Cloud</title>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+   <meta http-equiv="refresh" content="30"> 
+</head>
+<body>
+ 
+<h1>Final Project: Temperature Prediction using Sensor Data</h1>
+<h2>Yellow Team</h2>
+<h3>Parsa Yousefi</h3>
+<h3>Jonathan Lwowski</h3>
+
+<table border="1" cellpadding="5" cellspacing="5">
+    {% for row in data %}
+        <tr>
+        {% for d in row %}
+            <td>{{ d }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+
+</body>
+</html>

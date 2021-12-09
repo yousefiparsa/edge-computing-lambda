@@ -1,0 +1,9 @@
+hostname: 129.114.111.193
+username: yellow
+password: test5243
+port: 31111
+mysql_hostname: 129.114.111.193
+mysql_username: lambda
+mysql_password: test5243
+mysql_database: lambda
+mysql_port: 3306
